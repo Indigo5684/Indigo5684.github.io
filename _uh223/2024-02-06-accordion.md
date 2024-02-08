@@ -8,12 +8,15 @@ sidebar:
     text: "Meow"
 gallery:
   - image_path: /assets/uh223/accordian/side.jpg
+    url: /assets/uh223/accordian/side.jpg # Full-size
     alt: "Side View of the Accordian Book"
     title: "Side Profile"
   - image_path: /assets/uh223/accordian/pages.jpg
+    url: /assets/uh223/accordian/pages.jpg # Full-size
     alt: "The book stood upright"
     title: "Full Book"
   - image_path: /assets/uh223/accordian/page.jpg
+    url: /assets/uh223/accordian/page.jpg # Full-size
     alt: "The book opened to a random page"
     title: "Page Spread"
 ---
