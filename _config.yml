@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan's ePortfolio"
+title                    : "Nathan's Website"
 title_separator          : "-"
 subtitle                 : "Made by hand!"
 name                     : "Nathan"
-description              : "My ePortfolio."
+description              : "My Website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Indigo5684/Indigo5684.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -306,6 +306,15 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+  - scope:
+      path: ""
+      type: en319
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
   - scope:
       path: ""
       type: projects
@@ -316,6 +325,9 @@ defaults:
 
 collections:
   uh223:
+    output: true
+    permalink: /:collection/:path/
+  en319:
     output: true
     permalink: /:collection/:path/
   projects:
