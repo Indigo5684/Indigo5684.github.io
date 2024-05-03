@@ -4,7 +4,7 @@ excerpt: "How to listen to a music library on a low-storage device"
 sidebar:
   - title: "Software Kitten"
     image: https://loremflickr.com/200/600
-    image_alt: "logo"
+    image_alt: "placeholder image"
     text: "This is a virtual kitten. Please enjoy."
 ---
 
