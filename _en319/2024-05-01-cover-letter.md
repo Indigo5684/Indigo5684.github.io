@@ -10,7 +10,7 @@ sidebar:
 
 To Whom It May Concern,
 
-Welcome to my writing portfolio, where mathematics and physics meets English. It is well understood phenomena in academia that when given a relatively large sample consisting of STEM graduates, a vast majority fail to understand the nuance of writing and communication. To this, I present my portfolio, where
+Welcome to my writing portfolio, where mathematics and physics meets English. It is well understood phenomena in academia that when given a relatively large sample consisting of STEM graduates, a vast majority fail to understand the nuance of writing and communication.
 
 It may not be immediately apparent how my portfolio correlates to math and physics. To this, I raise my project proposal. Whether writing grants or presenting to sponsors, I am proud to be able to create persuasive rhetoric that incorporates scientific data, such as survey results, statistics, or monetary figures. This is compounded in my feasibility report, in which I am able to use publicly verifiable figures to justify a position.
 
