@@ -5,5 +5,8 @@ main:
 #    url: /projects/
 #  - title: "UH 223"
 #    url: /uh223/
-  - title: "Writing Portfolio"
-    url: /en319/
+
+#  - title: "Writing Portfolio"
+#    url: /en319/
+  - title: "Other Courses"
+    url: /other_courses/
