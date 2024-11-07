@@ -16,4 +16,4 @@ And nowdays, with the exponential increase in wireless devices, from laptops to 
 
 This article is incomplete! Enjoy a kitten while you wait for the final version.
 
-![Sample Kitten](https://loremflick~r.com/700/500)
+![Sample Kitten](https://loremflickr.com/700/500)
