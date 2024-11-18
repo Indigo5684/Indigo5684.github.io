@@ -28,7 +28,9 @@ However, tracking down the sources has proved to be difficult. Recent [studies](
 
 Interference, on the other hand, is far, far easier to track. Among the hobbyist community, finding hidden transmitters has become a game/contest of sort, known as "foxhunting", with dedicated [hardware](https://byonics.com/foxhunt) for both the searchers and hiders. However, often don't have to deal with interference due to legislature. The Federal Communications Commission (FCC), who enforce radio regulaations in the United States, has strict regulations on permissable out-of-band emissions, and any intentional jamming of signals is treated [harshly](https://www.fcc.gov/general/jammer-enforcement).
 
-Yet there is one class of emitters that one in place, cannot feasibly be removed: satellites. 
+Yet there is one class of emitters that once in place, cannot feasibly be removed: satellites. Each satellite needs to communicate with Earth, and a majority are designed for mass communication in some way. Though *any* satellite interferes with radiocommunications when an observatory is pointed [directly at it](TODO), what is more alarming is how some satellites are emitting radiation outside of their designated frequency spaces.
+
+In particular, [SpaceX satellitets] have been noted to be polluting the spectrum 
 
 ---
 
