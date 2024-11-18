@@ -20,7 +20,7 @@ And nowdays, with the exponential increase in wireless devices, from laptops to 
 
 ---
 
-![Sample Kitten](https://www.researchgate.net/profile/Md-Mamunoor-Islam-2/publication/310612704/figure/fig2/AS:669451338911744@1536621045078/FFT-Spectrum-and-Waterfall-Display-of-ISM-Band.jpg)
+![A picture of a waterfall display, which showcases the signal level across a frequency band. Note the noise floor at around **-60 dB**.](/assets/other_courses/waterfall.png)
 
 > Alt text: A picture of a waterfall display, which showcases the signal level across a frequency band. Note the noise floor at around **-60 dB**.
 
