@@ -1,12 +1,14 @@
 main:
   - title: "About Me"
     url: /about/
-#  - title: "Personal Projects"
-#    url: /projects/
+  - title: "Personal Projects"
+    url: /projects/
 #  - title: "UH 223"
 #    url: /uh223/
+  - title: "UH 323"
+    url: /uh323/
 
 #  - title: "Writing Portfolio"
 #    url: /en319/
-  - title: "Other Courses"
-    url: /other_courses/
+#  - title: "Other Courses"
+#    url: /other_courses/
